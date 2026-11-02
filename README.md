@@ -1,128 +1,143 @@
-<!-- Animated wave header -->
+<!-- ░▒▓ HEADER ▓▒░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Deneshraja%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Firebase&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b1f,100:00ff9c&height=260&section=header&text=DENESHRAJA%20N&fontSize=62&fontColor=00ff9c&animation=twinkling&fontAlignY=40&desc=%5B%20Frontend%20Developer%20%7C%20Security-Minded%20Builder%20%5D&descAlignY=62&descSize=18&descColor=b6ffe0" width="100%" />
 </div>
 
-<!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Deneshraja+(Denesh);BCA+Graduate+2025+%7C+Frontend+Developer;Building+with+React.js+%2B+Firebase;3x+First+Prize+Winner+%F0%9F%8F%86;Open+to+entry-level+Frontend+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=00FF9C&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+%E2%86%92+deneshraja_n;%3E+sudo+build+--secure+--responsive;%3E+React.js+%7C+Firebase+%7C+JavaScript;%3E+System+%26+Network+Admin+by+day...;%3E+Frontend+Dev+by+night+%F0%9F%92%BB;%3E+status%3A+OPEN_TO_WORK+%F0%9F%9F%A2" alt="typing" />
 </div>
 
 <p align="center">
-  <a href="https://denesh-developer.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-24C6DC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/deneshraja-n-a28666304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:deneshraja235@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Denesh-developer&color=302b63&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://denesh-developer.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-00ff9c?style=for-the-badge&logo=gnometerminal&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/deneshraja-n-a28666304"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117&color=00ff9c" /></a>
+  <a href="mailto:deneshraja235@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=protonmail&logoColor=00ff9c&color=00ff9c" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Denesh-developer&color=00ff9c&style=for-the-badge&label=SYSTEM+ACCESS&labelColor=000000" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
+## `> cat about_me.sh`
 
-```js
-const denesh = {
-  name: "Deneshraja N",
-  role: "Frontend Developer",
-  education: "BCA (2025) – Adhiparasakthi College of Arts and Science",
-  location: "Tamil Nadu, India 🇮🇳",
-  currentlyWorking: "System Administrator @ Voltech Engineers, Chennai",
-  skills: ["HTML5", "CSS3", "JavaScript", "React.js", "Firebase"],
-  achievements: "3x 1st Prize – State & International tech events 🏆",
-  lookingFor: "Entry-level Frontend Developer role"
-};
+```bash
+#!/bin/bash
+# ─────────────────────────────────────────────
+#  PROFILE LOADED :: ACCESS GRANTED ✔
+# ─────────────────────────────────────────────
+NAME="Deneshraja N"
+ROLE="Frontend Developer"
+EDUCATION="BCA (2025) - Adhiparasakthi College of Arts and Science"
+LOCATION="Tamil Nadu, India"
+CURRENT="System Administrator @ Voltech Engineers, Chennai"
+STACK=("HTML5" "CSS3" "JavaScript" "React.js" "Firebase")
+WINS="3x First Prize - State & International tech events"
+SEEKING="Entry-level Frontend Developer role"
+
+echo "Building clean, responsive and secure web interfaces."
 ```
 
-- 🚀 Shipped **CheyyarHub** – a live React + Firebase app with Google sign-in, deployed on Vercel
-- 🛠️ Hands-on with system & network administration
-- 🌱 Always learning, always building
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## `> ./security_mindset.sh`
 
-## 🧰 Tech Stack
+| 🛡️ Module | Status | Details |
+|:---|:---:|:---|
+| **Authentication** | `ACTIVE` | Google sign-in with Firebase Authentication in CheyyarHub |
+| **Data Layer** | `ACTIVE` | Firestore data management, PHP + MySQL backends |
+| **System Admin** | `ACTIVE` | Server uptime, OS health, hardware & network troubleshooting |
+| **Network Ops** | `ACTIVE` | Day-to-day network issue diagnosis at Voltech Engineers |
+| **Research** | `RECORDED` | 🥇 1st Prize – Paper Presentation, CyberTech State Level Symposium |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `> ls ./tech_stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,php,mysql,java,python,c,git,github,vercel,vscode,androidstudio&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,php,mysql,java,python,c,git,github,vercel,vscode,androidstudio,linux,bash&perline=9&theme=dark" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## `> ./deploy --projects`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏘️ CheyyarHub</h3>
-      <p>Hyper-local community web app with secure Google sign-in and Firestore data.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel" /><br/><br/>
-      <a href="https://cheyyar-hub.vercel.app">🔗 Live Demo</a>
+      <h3>🏘️ <code>CheyyarHub</code></h3>
+      <p><code>[LIVE]</code> Hyper-local community web app with secure Google sign-in and Firestore storage.</p>
+      <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=00ff9c" />
+      <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase&logoColor=00ff9c" />
+      <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=00ff9c" /><br/><br/>
+      <a href="https://cheyyar-hub.vercel.app">▶ <b>EXECUTE LIVE DEMO</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 HackTech Gadgets Store</h3>
-      <p>Full-stack e-commerce: catalog, cart, customer auth and admin inventory dashboard.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <h3>🛒 <code>HackTech Gadgets Store</code></h3>
+      <p><code>[FULL-STACK]</code> Catalog, cart, customer authentication and admin inventory dashboard.</p>
+      <img src="https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=00ff9c" />
+      <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=00ff9c" />
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=00ff9c" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 Event Management System</h3>
-      <p>Responsive frontend showing event schedules and details, built with semantic HTML, Flexbox and CSS3.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <h3>📅 <code>Event Management System</code></h3>
+      <p><code>[FRONTEND]</code> Responsive event schedule UI using semantic HTML, Flexbox and CSS3.</p>
+      <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=00ff9c" />
+      <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=00ff9c" />
     </td>
     <td width="50%" valign="top">
-      <h3>📂 More on GitHub</h3>
-      <p>Check my repositories for more work.</p>
-      <a href="https://github.com/Denesh-developer?tab=repositories">🔗 View all repositories</a>
+      <h3>📂 <code>More repositories</code></h3>
+      <p><code>[ARCHIVE]</code> Browse everything else I have built.</p>
+      <a href="https://github.com/Denesh-developer?tab=repositories">▶ <b>ACCESS ALL REPOS</b></a>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
+## `> cat achievements.log`
 
-| 🥇 | Event | Category |
-|----|-------|----------|
-| 1st Prize | CyberTech – State Level Symposium | Paper Presentation |
-| 1st Prize | Data Science & IT Meet 24 – International Conference | Web Designing |
-| 1st Prize | TechFest – State Level Symposium | Web Designing |
+```log
+[2024] 🥇 1st PRIZE  | CyberTech (State Level)          | Paper Presentation
+[2024] 🥇 1st PRIZE  | IT Meet 24 (International Conf.) | Web Designing
+[2024] 🥇 1st PRIZE  | TechFest (State Level)           | Web Designing
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## `> ./stats --live`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Denesh-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denesh-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Denesh-developer&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff9c&icon_color=00ff9c&text_color=b6ffe0" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denesh-developer&layout=compact&hide_border=true&bg_color=000000&title_color=00ff9c&text_color=b6ffe0" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Denesh-developer&theme=tokyonight&hide_border=true&background=0f0c29" />
+  <img src="https://streak-stats.demolab.com?user=Denesh-developer&hide_border=true&background=000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=b6ffe0&currStreakNum=ffffff&sideNums=ffffff&dates=b6ffe0" />
 </p>
 
----
+## `> render --3d contributions`
 
-## 🧊 3D Contribution Graph
-
-<!-- Generated automatically by the GitHub Action in .github/workflows/profile-3d.yml -->
+<!-- Generated by .github/workflows/profile-3d.yml -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
 </p>
 
-## 🐍 Contribution Snake
+## `> ./snake --eat contributions`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Denesh-developer/Denesh-developer/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Denesh-developer/Denesh-developer/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
-  <br/>
-  <b>⭐ Thanks for visiting! Let's build something awesome together. ⭐</b>
+
+```
+┌──────────────────────────────────────────────┐
+│  "Secure by design. Responsive by default."  │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003b1f,100:000000&height=130&section=footer" width="100%" />
+
 </div>
