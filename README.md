@@ -1,156 +1,164 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:f97316,50:ec4899,100:8b5cf6&height=300&section=header&text=Deneshraja%20N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=26&descAlignY=64" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:001a0d,100:00ff41&height=220&section=header&text=%5B%20ROOT%20ACCESS%20GRANTED%20%5D&fontSize=40&fontColor=00ff41&animation=blinking&fontAlignY=45&desc=%2F%2F%20Full%20Stack%20Developer%20%7C%20System%20%26%20Network%20Admin&descSize=18&descAlignY=68&descColor=7dffa8" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=800&height=60&lines=Turning+ideas+into+real+web+apps;React+%C2%B7+Firebase+%C2%B7+PHP+%C2%B7+MySQL;System+admin+by+day%2C+developer+by+passion;Open+to+Frontend+%2F+Full+Stack+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&width=820&height=55&lines=root%40denesh%3A~%24+whoami;root%40denesh%3A~%24+nmap+--skills+react+firebase+php+mysql;root%40denesh%3A~%24+ssh+-i+portfolio+deploy%40vercel;root%40denesh%3A~%24+echo+%22Open+to+work%22;%5B+OK+%5D+status%3A+AVAILABLE+FOR+HIRE" alt="typing" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://denesh-developer.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/deneshraja-n-a28666304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:deneshraja235@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Denesh-developer&label=Visitors&color=8B5CF6&style=for-the-badge" />
+
+```text
+████   █████  █   █  █████   ████  █   █
+█   █  █      ██  █  █      █      █   █
+█   █  ████   █ █ █  ████    ███   █████
+█   █  █      █  ██  █          █  █   █
+████   █████  █   █  █████  ████   █   █
+
+████    ███     ███   ███        █   █
+█   █  █   █     █   █   █       ██  █
+████   █████     █   █████       █ █ █
+█  █   █   █  █  █   █   █       █  ██
+█   █  █   █   ██    █   █       █   █
+```
+
 </div>
 
-<br>
+<div align="center">
+  <a href="https://denesh-developer.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=000000&color=00ff41" /></a>
+  <a href="https://linkedin.com/in/deneshraja-n-a28666304"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000&color=00ff41" /></a>
+  <a href="mailto:deneshraja235@gmail.com"><img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=000000&color=00ff41" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Denesh-developer&label=INTRUSIONS&color=00ff41&style=for-the-badge&labelColor=000000" />
+</div>
 
-# 👋 About Me
+---
 
-I'm a **BCA graduate (2025)** from Chennai who loves building complete web apps, from the interface to the database. I've shipped a community social app, a 3D multiplayer town and a bus timetable app for my hometown, **Cheyyar**.
+## `root@denesh:~$ ./boot.sh`
+
+```text
+[  OK  ] Loading profile ................... DONE
+[  OK  ] Mounting education ................ BCA (2025) :: Adhiparasakthi College
+[  OK  ] Detecting location ................ Chennai, Tamil Nadu, India
+[  OK  ] Current process ................... System Administrator @ Voltech Engineers
+[  OK  ] Achievements ...................... 3x FIRST PRIZE (State + International)
+[  OK  ] Stack ............................. React | Firebase | PHP | MySQL | JS
+[ WARN ] Fresher detected .................. Learning at maximum speed
+[  OK  ] Status ............................ OPEN TO WORK (Frontend / Full Stack)
+```
+
+---
+
+## `root@denesh:~$ nmap --stack`
+
+```text
+PORT        STATE   SERVICE
+80/html5    open    semantic markup
+443/css3    open    flexbox / responsive layouts
+3000/js     open    ES6+, async/await, DOM
+5173/react  open    components, hooks, Vite
+8080/fb     open    Auth, Firestore, Realtime DB
+8081/php    open    server-side, sessions
+3306/mysql  open    queries, joins, prepared statements
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,firebase,php,mysql,python,c,git,github,vercel,vscode,androidstudio,linux,bash&perline=9&theme=dark" width="800" />
+</div>
+
+---
+
+## `root@denesh:~$ ls ./projects`
 
 <table>
   <tr>
-    <td>🎓 <b>Education</b></td>
-    <td>BCA (2025), Adhiparasakthi College of Arts and Science</td>
-  </tr>
-  <tr>
-    <td>💼 <b>Currently</b></td>
-    <td>System Administrator at Voltech Engineers, Chennai</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Looking for</b></td>
-    <td>Frontend / Full Stack Developer role</td>
-  </tr>
-  <tr>
-    <td>🏆 <b>Wins</b></td>
-    <td>3x first prize at state and international tech events</td>
-  </tr>
-</table>
-
-<br>
-
-# 🧰 Tech Stack
-
-<p>
-  <b>Frontend</b><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-<p>
-  <b>Backend and Database</b><br>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p>
-  <b>Tools</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-</p>
-
-<br>
-
-# 🚀 Featured Projects
-
-<table>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🏘️ CheyyarHub</h3>
-      <p>Hyper-local community app with Google sign-in, posts, follow requests, chat, notifications and a developer panel.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" /><br><br>
-      <a href="https://cheyyar-hub.vercel.app"><b>🔗 Live Demo</b></a>
+      <h3>🏘️ <code>cheyyar_hub/</code></h3>
+      <p><code>[LIVE]</code> Community social app: Google auth, posts, follow requests, chat, notifications.</p>
+      <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/Cloudinary-000?style=flat&logo=cloudinary&logoColor=00ff41" /><br/><br/>
+      <a href="https://cheyyar-hub.vercel.app">▶ <b>./run --live</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Namma Cheyyar 3D Town</h3>
-      <p>Explorable 3D town in the browser with a theatre box office, drivable vehicles, collectible coins and online multiplayer.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br><br>
-      <a href="https://cheyyar-3d.vercel.app"><b>🔗 Live Demo</b></a>
+      <h3>🎮 <code>cheyyar_3d_town/</code></h3>
+      <p><code>[MULTIPLAYER]</code> 3D town in the browser: theatre, vehicles, coins, online players.</p>
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/Realtime_DB-000?style=flat&logo=firebase&logoColor=00ff41" /><br/><br/>
+      <a href="https://cheyyar-3d.vercel.app">▶ <b>./run --live</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚌 Cheyyar Bus Timetable</h3>
-      <p>All bus stand routes and timings in one clean, animated web app.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br><br>
-      <a href="https://cheyyar-bus.vercel.app"><b>🔗 Live Demo</b></a>
+      <h3>🚌 <code>cheyyar_bus/</code></h3>
+      <p><code>[LIVE]</code> Bus stand routes and timings in one clean, animated web app.</p>
+      <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=00ff41" /><br/><br/>
+      <a href="https://cheyyar-bus.vercel.app">▶ <b>./run --live</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 HackTech Gadgets Store</h3>
-      <p>Full-stack e-commerce app with catalog, cart, customer login and an admin inventory dashboard.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <h3>🛒 <code>hacktech_store/</code></h3>
+      <p><code>[FULL-STACK]</code> Catalog, cart, customer auth and admin inventory dashboard.</p>
+      <img src="https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=00ff41" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/Denesh-developer?tab=repositories"><b>See all repositories →</b></a>
+  <a href="https://github.com/Denesh-developer?tab=repositories">▶ <b>cd ~/all_repos</b></a>
 </div>
 
-<br>
+---
 
-# 🏆 Achievements
+## `root@denesh:~$ cat /var/log/achievements.log`
 
-| Year | Prize | Event | Category |
-|:---:|:---:|:---|:---|
-| 2024 | 🥇 1st | CyberTech, State Level Symposium | Paper Presentation |
-| 2024 | 🥇 1st | IT Meet 24, International Conference | Web Designing |
-| 2024 | 🥇 1st | TechFest, State Level Symposium | Web Designing |
+```log
+[2024] 1ST PRIZE | CyberTech (State Level)          | Paper Presentation
+[2024] 1ST PRIZE | IT Meet 24 (International Conf.) | Web Designing
+[2024] 1ST PRIZE | TechFest (State Level)           | Web Designing
+```
 
-<br>
+---
 
-# 📊 GitHub Stats
+## `root@denesh:~$ ./stats --live`
 
 <div align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=Denesh-developer&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denesh-developer&layout=compact&theme=radical&hide_border=true" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=Denesh-developer&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=7dffa8&count_private=true" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denesh-developer&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=7dffa8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Denesh-developer&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Denesh-developer&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7dffa8&currStreakNum=ffffff&sideNums=ffffff&dates=7dffa8" />
 </div>
 
-<br>
+## `root@denesh:~$ render --3d contributions`
 
 <!-- Generated by .github/workflows/profile-3d.yml -->
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
 </div>
 
+## `root@denesh:~$ ./snake --eat contributions`
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Denesh-developer/Denesh-developer/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h3>Let's build something great together 🤝</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:8b5cf6&height=140&section=footer" width="100%" />
+
+```text
+┌──────────────────────────────────────────────┐
+│  root@denesh:~$ exit  # connection closed    │
+│  "Build it. Break it. Ship it. Repeat."      │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,60:001a0d,100:000000&height=100&section=footer" width="100%" />
+
 </div>
