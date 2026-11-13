@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://denesh-developer.github.io/Portfolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=Hi+there!+I'm+Deneshraja+N+%F0%9F%91%8B;Full+Stack+Developer+%7C+Fresher+%F0%9F%9A%80;React+%7C+Firebase+%7C+PHP+%7C+MySQL+%7C+JavaScript;3x+First+Prize+Winner+%F0%9F%8F%86;Turning+ideas+into+responsive+web+apps+%F0%9F%92%BB;status%3A+OPEN_TO_WORK+%F0%9F%9F%A2" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=Hi+there!+I'm+Deneshraja+N+%F0%9F%91%8B;Full+Stack+Developer+%7C+Fresher+%F0%9F%9A%80;React+%7C+Firebase+%7C+PHP+%7C+MySQL+%7C+JavaScript;3x+First+Prize+Winner+%F0%9F%8F%86;Turning+ideas+into+responsive+web+apps+%F0%9F%92%BB;status%3A+OPEN_TO_WORK+%F0%9F%9F%A2" alt="typing" />
   </a>
 </p>
 
