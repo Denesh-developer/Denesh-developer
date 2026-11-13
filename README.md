@@ -3,7 +3,7 @@
 <img src="assets/cyber-header.svg" width="100%" alt="DENESHRAJA N — Cyber Developer Identity"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=62E6FF&center=true&vCenter=true&width=720&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+FRONTEND+DEVELOPER;%3E+BUILDING+DIGITAL+EXPERIENCES;%3E+IDEAS+IN.+REAL+PRODUCTS+OUT." alt="Animated terminal introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=62E6FF&center=true&vCenter=true&width=720&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+FULL+STACK+DEVELOPER;%3E+BUILDING+DIGITAL+EXPERIENCES;%3E+IDEAS+IN.+REAL+PRODUCTS+OUT." alt="Animated terminal introduction"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │  OPERATOR       DENESHRAJA N                                  │
-│  SPECIALIZATION FRONTEND DEVELOPMENT                         │
+│  SPECIALIZATION FULL STACK DEVELOPMENT                       │
 │  LOCATION       CHENNAI, INDIA                                │
 │  EDUCATION      BACHELOR OF COMPUTER APPLICATIONS (2025)      │
 │  CURRENT ROLE   SYSTEM ADMINISTRATOR                          │
@@ -31,9 +31,9 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I'm a frontend developer who enjoys turning ideas into responsive, user-friendly digital experiences. I build practical web applications, experiment with interactive interfaces and enjoy solving real-world problems through technology.
+I'm a full stack developer who enjoys turning ideas into responsive, user-friendly digital experiences. I build practical web applications end to end — from React interfaces to PHP, MySQL and Firebase backends — and enjoy solving real-world problems through technology.
 
-- `FOCUS` — React.js, JavaScript, responsive UI and frontend engineering
+- `FOCUS` — React.js, JavaScript, PHP, MySQL, Firebase and full stack web development
 - `BUILDING` — Community platforms and interactive web experiences
 - `EXPLORING` — Better UI systems, performance and modern web technologies
 - `BASED IN` — Chennai, Tamil Nadu, India
